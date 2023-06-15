@@ -1,2 +1,2 @@
 # odin-recipes
-Tasks for Odin html section
+Tasks for Html foundation - Andela
